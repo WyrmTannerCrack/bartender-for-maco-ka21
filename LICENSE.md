@@ -1,4 +1,4 @@
-
+Get the ultimate Bartender for macOS workflow with advanced Workflow for Bartender for macOS - menu-bar-customization and startup-manager. Featuring menu-bar-customization and
 
 
 
